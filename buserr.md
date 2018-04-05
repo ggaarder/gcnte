@@ -8,4 +8,4 @@
 > ...
 > answered May 8 '09 at 16:04
 
--- [bkle@stackoverflow](stackoverflow.com/users/8090/bk1e), answering [Bus error vs Segmentation fault](stackoverflow.com/questions/838540/bus-error-vs-segmentation-fault)
+-- [bkle@stackoverflow](https://stackoverflow.com/users/8090/bk1e), answering [Bus error vs Segmentation fault](https://stackoverflow.com/questions/838540/bus-error-vs-segmentation-fault)
